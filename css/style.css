@@ -1,0 +1,282 @@
+
+body {
+  margin: 0;
+      font-family:sans-serif;
+      font-size: 1rem;
+      font-weight: 400;
+      line-height: 1.5;
+
+      background-color: #fff
+}
+
+
+
+p {
+  color: #333;
+}
+
+#title h1
+{color: #fff;
+  font-size: 4rem;
+
+}
+.tagline h2
+{color: #fff;
+    font-size: 0.7rem;
+}
+.contact-image h2
+{
+  color: #fff;
+      font-size: 1.2rem;
+
+}
+
+.contact-image p
+{
+  color: #fff;
+      font-size: 0.8rem;
+
+}
+.tel
+{color: #fff;
+    font-size: 1rem;
+text-decoration: #fff;
+margin: 20px 0px;
+}
+.tel a{
+  color: #000;
+}
+.email
+{color: #fff;
+    font-size: 1rem;
+text-decoration: #fff;
+}
+
+.email a{
+  color: #000;
+}
+#navbarToggleExternalContent a{
+  color: #fff;
+}
+#navbarToggleExternal a{
+  color: #fff;
+}
+
+/* Navigation Bar */
+/*#navbarToggleExternalContent a{
+  color: #fff;
+  font-family:sans-serif;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5
+
+}*/
+.bg-dark
+{
+text-align: center;
+}
+ul .smart-room
+{
+text-align: center;
+}
+/* Buttons */
+
+
+
+/* Title Section */
+
+.main-nav
+{
+margin-top: 50px;
+
+}
+
+.bigheading {
+  margin:50px 70px 70px 100px;
+
+}
+
+
+/* Title Image */
+
+
+
+
+
+/* Pricing Section */
+
+
+
+
+
+.btn.book-button{
+    border: 3px solid red;
+    background-color: #000;
+    font-weight: bold;
+color: white;
+cursor: pointer;
+
+}
+.btn.book-button:hover {
+    border: 3px solid red;
+  background-color: #fff;
+  font-weight: bold;
+  color: #000;}
+
+  .btn.book-button1{
+      border: 3px solid red;
+      background-color: #fff;
+        color: #000;
+      font-weight: bold;
+
+font-size: 10px;
+  cursor: pointer;
+  }
+  .btn.book-button1:hover {
+      border: 3px solid red;
+    background-color: #000;
+      color: #fff;
+    font-weight: bold;
+    font-size: 10px;
+
+  }
+
+
+/*.button {
+  background-color: #000;
+  border: 3px solid red;
+  color: white;
+  padding: 10px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  font-weight: bold;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+.button:hover {
+    border: 3px solid red;
+  background-color: #fff;
+  font-weight: bold;
+  color: #000;}
+
+  .button1 {
+    background-color: white;
+    border: 3px solid red;
+    color: black;
+    padding: 10px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    font-weight: bold;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+
+  .button1:hover {
+      border: 3px solid red;
+    background-color: #000;
+    font-weight: bold;
+    color: #fff;}*/
+.colored-section {
+
+  background:linear-gradient(rgba(0, 144, 71, 0.5),rgba(0, 144, 71, 0.5)) ,url('../images/girl.png');
+  background-size: cover;
+ }
+.sofaimage
+{
+background:linear-gradient(rgba(0, 144, 150, 0.5),rgba(0, 144, 150, 0.5)) ,url('../images/sofa.jpg');
+background-size: cover;
+}
+
+.buidingimage
+{
+background:linear-gradient(rgba(255, 99, 71, 0.4),rgba(255, 99, 71, 0.4)) ,url('../images/lastbulding.jpeg');
+background-size: cover;
+}
+
+
+.tvimage
+{
+background:linear-gradient(rgba(255, 255, 14, 0.5),rgba(255, 255, 14, 0.5)) ,url('../images/tv.jpg');
+background-size: cover;
+}
+
+.frndsimage
+{
+background:linear-gradient(rgba(255, 99, 71, 0.4),rgba(255, 99, 71, 0.4)) ,url('../images/lappy.jpeg');
+background-size: cover;
+}
+
+.contactus-section
+{
+
+  background:linear-gradient(rgba(0, 144, 150, 0.5),rgba(0, 144, 150, 0.5)) ,url('../images/last.jpg');
+  background-size: cover;
+
+}
+.taglinelogo
+{
+  width:30%;
+}
+.blacklogo
+{
+  width:30%;
+}
+.mainlogo
+{
+  width:30%;
+}
+.navbarcolla{
+  color: #000;
+}
+.small-logo
+{
+    width:30%;
+}
+.aboutheading
+{
+margin: 50px 0px 0px 70px;
+
+}
+.mdusdu-heading
+{
+margin: 50px 50px 0px 0px;
+
+}
+.content-heading
+{
+margin: 50px 0px 0px 70px;
+}
+
+.national-sales-heading
+{
+  margin: 50px 50px 0px 0px;
+
+  }
+
+.small-image
+{
+  margin: 50px 30px 0px 0px;
+}
+.contact-image
+{
+  margin: 50px 0px 70px 0px;
+}
+
+.phone-img
+{
+  margin: 250px 0px 0px 0px;
+
+}
+.lappy
+{
+margin: 50px 0px 0px 110px;
+
+}
+.button-demo
+{
+    margin: 50px 0px 10px 0px;
+}

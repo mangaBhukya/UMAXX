@@ -1,0 +1,59 @@
+body, html {
+  height: 100%;
+  margin: 0;
+  font: 400 15px/1.8 "Lato", sans-serif;
+  color: #777;
+}
+
+.bgimg, .bgimg1, .bgimg2 {
+  position: relative;
+  opacity: 0.65;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+.bgimg,.bgimg1, .bgimg2{
+
+  height: 100%;
+}
+
+.bgimg{
+  filter: brightness(50%);
+  filter: contrast(180%);
+filter: drop-shadow(124px, 230px, 0px, green);
+}
+.img
+{
+  color: red;
+}
+/*---button---*/
+.btn.book-button{
+    border: 3px solid red;
+    background-color: #000;
+    font-weight: bold;
+color: white;
+font-size: 13px;
+cursor: pointer;
+
+}
+
+
+
+.caption {
+  position: absolute;
+  left: 0;
+  top: 55%;
+  width: 100%;
+  text-align: center;
+  color: red;
+  font-size: 25px;
+    letter-spacing: 10px;
+}
+
+.caption span{
+
+border: none;
+  color: red;
+
+}

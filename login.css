@@ -1,0 +1,72 @@
+.main {
+  margin: auto;
+  max-width: 600px;
+  height: 600px;
+  padding-top: 60px;
+  text-align: center;
+}
+
+.inputs {
+  max-width: inherit;
+  height: 100px;
+  margin: 50px auto 15px;
+}
+
+input[type="text"], input[type="text"]:focus{
+  background-color : black;
+  text-align: center;
+  padding-right: 0;
+  width: 350px;
+  height: 50px;
+  margin: auto;
+}
+
+.btnclass {
+   margin : 30px;
+   padding: 10px 20px;
+   min-width: 140px;
+   height: 50px;
+ }
+
+ #popUpYes.btnclass
+ {
+   background-color: #DC143C;
+   color: white;
+   display: inline-block;
+   cursor:pointer;
+ }
+
+.btnclass:hover
+{
+  background-color: #fff;
+  color: #000;
+}
+
+/*.home{
+  color: #fff;
+}
+.home:hover{
+  color: red;
+}
+.navbar
+{
+  color: #fff;
+}
+.navbar:hover{
+  color: red;
+}*/
+/* / */
+@media (max-width: 750px){
+  input[type="text"] {
+    width: 80%;
+    margin: auto;
+  }
+}
+
+.topnav a {
+  float: left;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}

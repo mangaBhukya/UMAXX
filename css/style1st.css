@@ -1,0 +1,227 @@
+
+body {
+  margin: 0;
+      font-family:sans-serif;
+      font-size: 1rem;
+      font-weight: 400;
+      line-height: 1.5;
+
+      background-color: #fff
+}
+
+
+
+p {
+  color: #000;
+}
+
+#title h1
+{
+  font-size: 4rem;
+
+}
+
+.colored-section {
+  background-color: #f5587b;
+  color: #fff;
+}
+
+.white-section {
+  background-color: #fff;
+}
+
+/* Navigation Bar */
+
+
+/* Buttons */
+
+
+
+/* Title Section */
+
+#title {
+  background-color: #f5587b;
+  color: #fff;
+  text-align: left;
+}
+
+
+#title .container-fluid {
+  padding: 3% 7% 5%;
+
+}
+
+
+/* Title Image */
+
+
+
+
+
+/* Pricing Section */
+
+#pricing {
+  padding: 100px;
+}
+
+.price-text {
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+.aboutheading
+{
+  padding-top: 3% ;
+  padding-right:7%
+}
+.mdusdu-heading
+{
+  padding: 3% 0% 0% 20%;
+
+}
+.content-heading
+{
+  padding-top: 3% ;
+    padding-left:7%
+}
+.national-sales-heading
+{
+  padding: 3% 0% 0% 20%;
+
+}
+
+.btn.book-button{
+    border: 3px solid red;
+    background-color: #000;
+    font-weight: bold;
+color: white;
+cursor: pointer;
+
+}
+.btn.book-button:hover {
+    border: 3px solid red;
+  background-color: #fff;
+  font-weight: bold;
+  color: #000;}
+
+  .btn.book-button1{
+      border: 3px solid red;
+      background-color: #fff;
+        color: #000;
+      font-weight: bold;
+
+font-size: 10px;
+  cursor: pointer;
+  }
+  .btn.book-button1:hover {
+      border: 3px solid red;
+    background-color: #000;
+      color: #fff;
+    font-weight: bold;
+    font-size: 10px;
+
+  }
+
+
+/*.button {
+  background-color: #000;
+  border: 3px solid red;
+  color: white;
+  padding: 10px 25px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  font-weight: bold;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+.button:hover {
+    border: 3px solid red;
+  background-color: #fff;
+  font-weight: bold;
+  color: #000;}
+
+  .button1 {
+    background-color: white;
+    border: 3px solid red;
+    color: black;
+    padding: 10px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    font-weight: bold;
+    margin: 4px 2px;
+    cursor: pointer;
+  }
+
+  .button1:hover {
+      border: 3px solid red;
+    background-color: #000;
+    font-weight: bold;
+    color: #fff;}*/
+.colored-section {
+
+  background:linear-gradient(rgba(0, 144, 71, 0.5),rgba(0, 144, 71, 0.5)) ,url('../images/girl.png');
+  background-size: cover;
+ }
+.sofaimage
+{
+background:linear-gradient(rgba(0, 144, 150, 0.5),rgba(0, 144, 150, 0.5)) ,url('../images/sofa.jpeg');
+background-size: cover;
+}
+
+.buidingimage
+{
+background:linear-gradient(rgba(255, 99, 71, 0.4),rgba(255, 99, 71, 0.4)) ,url('../images/building.jpg');
+background-size: cover;
+}
+
+
+.tvimage
+{
+background:linear-gradient(rgba(255, 255, 8, 0.7),rgba(255, 255, 8, 0.7)) ,url('../images/tv.jpg');
+background-size: cover;
+}
+
+.frndsimage
+{
+background:linear-gradient(rgba(255, 99, 71, 0.4),rgba(255, 99, 71, 0.4)) ,url('../images/building.jpg');
+background-size: cover;
+}
+.taglinelogo
+{
+  width:30%;
+}
+.blacklogo
+{
+  width:30%;
+}
+.mainlogo
+{
+  width:30%;
+}
+.image3
+{
+width:100%
+}
+
+
+
+.image4
+{ position: absolute;
+  left:0%;
+}
+.phone-img
+{ position: absolute;
+  bottom:0%;
+  left: 0%;
+}
+.navbarcolla{
+  color: #000;
+}
+.small-logo
+{
+    width:50%;
+}
